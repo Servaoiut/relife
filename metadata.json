@@ -1,0 +1,6 @@
+{
+  "name": "生活有序",
+  "description": "生活有序 (LifeOrdered) 是一款奶油泥塑风的暖系生活记录助手，提供公农历纪念日倒计时、耗材寿命维护以及安全库存警报功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
